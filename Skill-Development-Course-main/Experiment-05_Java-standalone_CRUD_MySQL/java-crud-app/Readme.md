@@ -27,7 +27,7 @@ Step 2: Configure MySQL Database
 
 Use MySQL Workbench or terminal to set up the database.
 CREATE DATABASE shoppingdb;
-
+developed by M.Abdul Kalam
 USE shoppingdb;
 
 CREATE TABLE products (
